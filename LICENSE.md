@@ -1,4 +1,4 @@
-# 
+# Personalizado AI Quiz Generator plugins. Con redes neuronales y detección de objetos — optimizado para el máximo rendimiento.
 
 
 
